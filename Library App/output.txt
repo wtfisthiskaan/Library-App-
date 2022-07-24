@@ -1,0 +1,10 @@
+Catalog Read: movie
+3 unique entries
+search "Safak" in "starring"
+"Kolpacino" "Safak Sezer" "2009" "Macera, Komedi" "Safak Sezer, Aydemir Aybas, Ali Catalbas" 
+search "anne" in "director"
+"The Hunger Games" "Suzanne Collins" "2012" "Fantastical" "Jennifer Lawrence, Josh Hutcherson" 
+sort "title"
+"Forrest Gump" "Winston Groom,Eric Roth" "1994" "Drama, Romantic" " Tom Hanks" 
+"Kolpacino" "Safak Sezer" "2009" "Macera, Komedi" "Safak Sezer, Aydemir Aybas, Ali Catalbas" 
+"The Hunger Games" "Suzanne Collins" "2012" "Fantastical" "Jennifer Lawrence, Josh Hutcherson" 

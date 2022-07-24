@@ -1,0 +1,4 @@
+movie
+"Kolpacino" "Safak Sezer" "2009" "Macera, Komedi" "Safak Sezer, Aydemir Aybas, Ali Catalbas"
+"The Hunger Games" "Suzanne Collins" "2012" "Fantastical" "Jennifer Lawrence, Josh Hutcherson"
+"Forrest Gump" "Winston Groom,Eric Roth" "1994" "Drama, Romantic" " Tom Hanks"
